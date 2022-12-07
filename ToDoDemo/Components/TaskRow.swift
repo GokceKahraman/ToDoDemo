@@ -12,12 +12,16 @@ struct TaskRow: View {
     var completed: Bool
     
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack(spacing: 20){
+            Image(systemName: completed ? "checkmark.circle" : "circle")
+            
+            Text(task)
+        }
     }
 }
 
 struct TaskRow_Previews: PreviewProvider {
     static var previews: some View {
-        TaskRow(task: "Do loundry", completed: true)
+        TaskRow(task: "Do laundry", completed: true)
     }
 }
