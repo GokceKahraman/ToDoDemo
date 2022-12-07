@@ -12,7 +12,6 @@
       "size" : "20x20"
     },
     {
-      "filename" : "20x20.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
@@ -28,7 +27,6 @@
       "size" : "29x29"
     },
     {
-      "filename" : "29x29.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -39,7 +37,6 @@
       "size" : "40x40"
     },
     {
-      "filename" : "40x40.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
@@ -50,7 +47,6 @@
       "size" : "60x60"
     },
     {
-      "filename" : "60x60.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
